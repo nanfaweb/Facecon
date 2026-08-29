@@ -1,0 +1,117 @@
+participant_id,genetic_data_status,has_genotype_file,file_type,file_url,status_note
+hu005EB9,uploaded,True,FamilyTreeDNA,https://my.pgp-hms.org/user_file/download/45,Found FamilyTreeDNA genotype file
+hu016B28,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/8,Found 23andMe genotype file
+hu034DB1,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/379,Found 23andMe genotype file
+hu05F442,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/782,Found 23andMe genotype file
+hu093F8B,planned,False,,,No microarray/genotype file listed on profile
+hu094BE5,planned,True,VCF,https://my.pgp-hms.org/user_file/download/1978,Found VCF file
+hu0C0779,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/821,Found 23andMe genotype file
+hu0C8573,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/1738,Found 23andMe genotype file
+hu0DEE68,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/111,Found 23andMe genotype file
+hu0E64A1,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/191,Found 23andMe genotype file
+hu101EF8,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/742,Found 23andMe genotype file
+hu1097B2,uploaded,False,,,No microarray/genotype file listed on profile
+hu117D1E,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/1091,Found 23andMe genotype file
+hu1206C8,uploaded,False,,,No microarray/genotype file listed on profile
+hu12771C,planned,False,,,No microarray/genotype file listed on profile
+hu14262A,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/413,Found 23andMe genotype file
+hu15E54C,uploaded,True,AncestryDNA,https://my.pgp-hms.org/user_file/download/3540,Found AncestryDNA genotype file
+hu17DFDB,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/763,Found 23andMe genotype file
+hu19C09F,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/302,Found 23andMe genotype file
+hu1A4F2E,uploaded,True,Complete Genomics (CGI),http://evidence.pgp-hms.org/genome_download.php?download_genome_id=e528e609747dd3afb3a51493f0bbc5044e2fca49&download_nickname=hu1A4F2E%3A+var-GS000034193-ASM.tsv.bz2,Found Complete Genomics (CGI) file
+hu1BD549,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/55,Found 23andMe genotype file
+hu1EE386,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/594,Found 23andMe genotype file
+hu1EF4CF,planned,True,Complete Genomics (CGI),http://evidence.pgp-hms.org/genome_download.php?download_genome_id=361b013338a9a4aaa8d0dffcca12f1533ac352a2&download_nickname=hu1EF4CF%3A+var-GS000037496-ASM.tsv.bz2,Found Complete Genomics (CGI) file
+hu2632E4,planned,True,Complete Genomics (CGI),http://evidence.pgp-hms.org/genome_download.php?download_genome_id=99cb725bca95ca58ea1ac67b907a4d496686968d&download_nickname=99cb725bca95ca58ea1ac67b907a4d496686968d&access_token=5f88891dc636ab9c2c508feb2fe0732e,Found Complete Genomics (CGI) file
+hu26B551,planned,True,FamilyTreeDNA,https://my.pgp-hms.org/user_file/download/3575,Found FamilyTreeDNA genotype file
+hu28DA07,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/115,Found 23andMe genotype file
+hu2BC187,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/100,Found 23andMe genotype file
+hu2D53F2,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/396,Found 23andMe genotype file
+hu2D6140,uploaded,True,Complete Genomics (CGI),http://evidence.pgp-hms.org/genome_download.php?download_genome_id=aac2ed1c6c9fe984d1d2fc7287541e816896831a&download_nickname=CGI+sample+GS01173-DNA_F06+from+PGP+sample+64191565,Found Complete Genomics (CGI) file
+hu2FEC01,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/1436,Found 23andMe genotype file
+hu30888B,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/133,Found 23andMe genotype file
+hu34BA70,planned,False,,,Profile 404 Not Found
+hu351AF9,uploaded,False,,,No microarray/genotype file listed on profile
+hu35389E,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/247,Found 23andMe genotype file
+hu379AE4,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/636,Found 23andMe genotype file
+hu3C0611,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/420,Found 23andMe genotype file
+hu3CAB43,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/304,Found 23andMe genotype file
+hu4040B8,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/496,Found 23andMe genotype file
+hu43860C,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/41,Found 23andMe genotype file
+hu448C4B,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/500,Found 23andMe genotype file
+hu45BAB6,planned,False,,,No microarray/genotype file listed on profile
+hu48C4EB,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/61,Found 23andMe genotype file
+hu4B11A3,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/130,Found 23andMe genotype file
+hu4B3CE7,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/502,Found 23andMe genotype file
+hu4BE6F2,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/198,Found 23andMe genotype file
+hu4C3094,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/95,Found 23andMe genotype file
+hu4DE348,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/109,Found 23andMe genotype file
+hu53075C,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/504,Found 23andMe genotype file
+hu599905,uploaded,True,FamilyTreeDNA,https://my.pgp-hms.org/user_file/download/393,Found FamilyTreeDNA genotype file
+hu5A61B8,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/192,Found 23andMe genotype file
+hu5AB9A8,planned,False,,,No microarray/genotype file listed on profile
+hu5AE862,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/347,Found 23andMe genotype file
+hu5CD2C6,planned,True,Complete Genomics (CGI),http://evidence.pgp-hms.org/genome_download.php?download_genome_id=d7f5f8a43c8c54f80fc71480728fd5f3a36bbbc8&download_nickname=d7f5f8a43c8c54f80fc71480728fd5f3a36bbbc8&access_token=dcd60ab650822c8fcbd3632a8cef6e48,Found Complete Genomics (CGI) file
+hu5D9DE3,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/526,Found 23andMe genotype file
+hu5F0DCB,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/134,Found 23andMe genotype file
+hu5FF6B0,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/253,Found 23andMe genotype file
+hu60AB7C,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/959,Found 23andMe genotype file
+hu627574,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/301,Found 23andMe genotype file
+hu6642CE,planned,False,,,No microarray/genotype file listed on profile
+hu665667,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/1764,Found 23andMe genotype file
+hu68B66A,planned,True,FamilyTreeDNA,https://my.pgp-hms.org/user_file/download/837,Found FamilyTreeDNA genotype file
+hu6FECE9,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/293,Found 23andMe genotype file
+hu7123C1,uploaded,True,FamilyTreeDNA,https://my.pgp-hms.org/user_file/download/818,Found FamilyTreeDNA genotype file
+hu72A81D,uploaded,True,Complete Genomics (CGI),http://evidence.pgp-hms.org/genome_download.php?download_genome_id=0905430edf60952a6af999f407b711873a7acd15&download_nickname=CGI+sample+GS01173-DNA_C02+from+PGP+sample+10366372,Found Complete Genomics (CGI) file
+hu741459,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/1352,Found 23andMe genotype file
+hu766CAD,planned,False,,,No microarray/genotype file listed on profile
+hu76CAA5,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/53,Found 23andMe genotype file
+hu77CC58,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/766,Found 23andMe genotype file
+hu7A2F1D,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/606,Found 23andMe genotype file
+hu7B4393,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/581,Found 23andMe genotype file
+hu7DE7FD,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/817,Found 23andMe genotype file
+hu81BCA8,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/289,Found 23andMe genotype file
+hu85C7B9,planned,False,,,Profile 404 Not Found
+hu868880,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/48,Found 23andMe genotype file
+hu8B3865,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/149,Found 23andMe genotype file
+hu8B4E43,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/256,Found 23andMe genotype file
+hu8D6607,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/570,Found 23andMe genotype file
+hu8D99F6,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/296,Found 23andMe genotype file
+hu8E6CC6,planned,True,Complete Genomics (CGI),http://evidence.pgp-hms.org/genome_download.php?download_genome_id=964cc8fd3eb6ce92f25f4f0169ef0826cd995167&download_nickname=964cc8fd3eb6ce92f25f4f0169ef0826cd995167&access_token=2a3c402922d936bbb85e6783682b7057,Found Complete Genomics (CGI) file
+hu976B29,planned,False,,,No microarray/genotype file listed on profile
+huA33758,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/1062,Found 23andMe genotype file
+huA55602,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/780,Found 23andMe genotype file
+huA5B645,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/814,Found 23andMe genotype file
+huA720D3,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/260,Found 23andMe genotype file
+huA939D6,planned,True,FamilyTreeDNA,https://my.pgp-hms.org/user_file/download/1094,Found FamilyTreeDNA genotype file
+huAC3640,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/773,Found 23andMe genotype file
+huAF3C63,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/460,Found 23andMe genotype file
+huB1488D,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/1194,Found 23andMe genotype file
+huB1FD55,planned,True,Complete Genomics (CGI),http://evidence.pgp-hms.org/genome_download.php?download_genome_id=e2ab062d47ab5ee7486fec8f0978340d24a61105&download_nickname=CGI+sample+GS01173-DNA_B07+from+PGP+sample+61499538,Found Complete Genomics (CGI) file
+huB220C0,planned,False,,,No microarray/genotype file listed on profile
+huB63C0C,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/219,Found 23andMe genotype file
+huB828CB,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/309,Found 23andMe genotype file
+huB89823,planned,False,,,No microarray/genotype file listed on profile
+huBA62D9,planned,True,FamilyTreeDNA,https://my.pgp-hms.org/user_file/download/455,Found FamilyTreeDNA genotype file
+huBE37B9,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/1462,Found 23andMe genotype file
+huC244BC,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/211,Found 23andMe genotype file
+huC3160A,uploaded,True,Complete Genomics (CGI),http://evidence.pgp-hms.org/genome_download.php?download_genome_id=574e4bc14d5b9a7c308947fb11d6aa0f0418e971&download_nickname=574e4bc14d5b9a7c308947fb11d6aa0f0418e971&access_token=5e335c7602b88ed6e52f194a94c67ef9,Found Complete Genomics (CGI) file
+huC434ED,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/927,Found 23andMe genotype file
+huCD25E9,uploaded,False,,,No microarray/genotype file listed on profile
+huCF446F,planned,False,,,No microarray/genotype file listed on profile
+huD0D79A,uploaded,False,,,No microarray/genotype file listed on profile
+huD10FBC,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/592,Found 23andMe genotype file
+huD57BBF,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/56,Found 23andMe genotype file
+huD7960A,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/662,Found 23andMe genotype file
+huD85057,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/87,Found 23andMe genotype file
+huE5A9A3,planned,True,VCF,https://my.pgp-hms.org/user_file/download/2115,Found VCF file
+huE86317,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/1389,Found 23andMe genotype file
+huE9E383,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/839,Found 23andMe genotype file
+huED0F40,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/62,Found 23andMe genotype file
+huEDF7DA,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/405,Found 23andMe genotype file
+huEFD2F0,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/2765,Found 23andMe genotype file
+huF160AA,planned,True,Complete Genomics (CGI),http://evidence.pgp-hms.org/genome_download.php?download_genome_id=0897f1394abcbeb65dfda48ef579e09c2f59bd6d&download_nickname=CGI+sample+GS03166-DNA_G01,Found Complete Genomics (CGI) file
+huF7E042,planned,True,23andMe,https://my.pgp-hms.org/user_file/download/158,Found 23andMe genotype file
+huFE71F3,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/816,Found 23andMe genotype file
+huFEC65A,planned,False,,,No microarray/genotype file listed on profile
+huFF6AB4,uploaded,True,23andMe,https://my.pgp-hms.org/user_file/download/155,Found 23andMe genotype file
