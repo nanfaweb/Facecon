@@ -1,0 +1,22 @@
+# Flame model files (licensed — do not commit binaries)
+assets/flame/
+*.pkl
+*.npz
+*.npz.npz
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Outputs
+outputs/
+*.obj
+*.ply
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
